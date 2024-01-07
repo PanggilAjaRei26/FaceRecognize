@@ -1,0 +1,9 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": true,
+    "C_Cpp.default.compilerPath": "f:\\Kuliah\\Semester7\\Komplek Algo\\Main.cpp"
+}
